@@ -12,7 +12,7 @@ Group:      Development/Java
 Summary:    A logging framework for Erlang/OTP
 Group:      Development/Erlang
 License:    ASL 2.0
-URL:        http://github.com/%{upstream}/%{realname}
+URL:        https://github.com/%{upstream}/%{realname}
 Source0:    https://github.com/%{upstream}/%{realname}/archive/%{version}/%{realname}-%{version}.tar.gz
 BuildRequires:  erlang-goldrush >= 0.1.8
 BuildRequires:  erlang-rebar
